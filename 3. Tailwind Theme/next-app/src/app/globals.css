@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* :root {
+    --primary-color: blue;
+} */
+
+@theme {
+    --color-primary: #4ade80;
+    --font-pratham: "Gilroy", sans-serif;
+    --font-uttam: "Monument", sans-serif;
+}
