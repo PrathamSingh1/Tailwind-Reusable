@@ -16,6 +16,7 @@ export const SVG = () => {
       height="24"
       viewBox="0 0 24 24"
       fill="currentColor"
+      className="text-neutral-400"
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
       <path d="M14.235 19c.865 0 1.322 1.024 .745 1.668a3.992 3.992 0 0 1 -2.98 1.332a3.992 3.992 0 0 1 -2.98 -1.332c-.552 -.616 -.158 -1.579 .634 -1.661l.11 -.006h4.471z" />
