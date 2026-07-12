@@ -37,7 +37,7 @@ const Button = React.forwardRef<HTMLButtonElement, BevelButtonProps>(
       <button
         ref={ref}
         className={cn(
-          "relative inline-flex items-center justify-center rounded-[8px] border border-solid border-transparent px-[10px] py-[10px] text-[12px] font-normal leading-none text-white outline-none transition-transform active:scale-[0.98]",
+          "relative inline-flex items-center justify-center rounded-lg border border-solid border-transparent px-[10px] py-[10px] text-[12px] font-normal leading-none text-white outline-none transition-transform active:scale-[0.98]",
           className,
         )}
         style={{
