@@ -29,7 +29,7 @@ export const SVG = () => {
       <motion.path
         variants={{
           animate: {
-            x: [0, -2, 2, 0],
+            x: [null, -2, 2, 0],
           },
         }}
         transition={{
@@ -42,7 +42,7 @@ export const SVG = () => {
       <motion.path
         variants={{
           animate: {
-            rotate: [0, -5, 5, 0],
+            rotate: [null, -5, 5, 0],
           },
         }}
         transition={{
